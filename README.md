@@ -13,6 +13,8 @@ Double-click the Python file, it will generate a valid key.
 
 ## Key structure (CD)
 
-XXX-XXXXXXX
+**XXX-XXXXXXX**
 
-## First key
+The first part can be any number between 000 and 999, tough 333, 444, 555, 666, 777, 888 and 999 are invalid.
+
+The second part is a bit trickier. The sum of the seven digits must  be divisible by 7, and the last number can't be 0, 8 or 9.
