@@ -1,6 +1,6 @@
-# Windows95Keygen
+# Windows 95 Keygen
 
-A Windows 95 key generator written in Python. Python 3 is required to run it
+A Windows 95 key generator written in Python. Python 3 is required to run it.
 
 # How to use
 
@@ -23,9 +23,9 @@ The second part is a bit trickier. The sum of the seven digits must be divisible
 
 **XXXXX-OEM-XXXXXXX-XXXXX**
 
-The first part is a date. The first three numbers are the day of the year, anywhere from 001 to 366. The next 2 digits are the year, they can't be lower than 95 or higher than 03
+The first part is a date. The first three numbers are the day of the year, anywhere from 001 to 366. The next 2 digits are the year, they can't be lower than 95 or higher than 03.
 
-Second part is always OEM
+Second part is always OEM.
 
 The third part is similar to the CD key. The sum of the seven digits must be divisible by 7, the first number has to be 0 and the last number can't be 0, 8 or 9
 The fourth part is 5 digits long. This part doesn't matter.
