@@ -6,9 +6,9 @@ A Windows 95 key generator written in Python. Python 3 is required to run it
 
 Double-click the Python file, it will generate a valid key.
 
-·CD: generates a valid key for Windows 95 installation CDs
+· CD: generates a valid key for Windows 95 installation CDs
 
-·OEM: generates a valid key for Windows 95 OEM
+· OEM: generates a valid key for Windows 95 OEM
 
 # How does it work
 
