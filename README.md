@@ -27,5 +27,6 @@ The first part is a date. The first three numbers are the day of the year, anywh
 
 Second part is always OEM.
 
-The third part is similar to the CD key. The sum of the seven digits must be divisible by 7, the first number has to be 0 and the last number can't be 0, 8 or 9
+The third part is similar to the CD key. The sum of the seven digits must be divisible by 7, the first number has to be 0 and the last number can't be 0, 8 or 9.
+
 The fourth part is 5 digits long. This part doesn't matter.
